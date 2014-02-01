@@ -21,6 +21,7 @@
 		A55437AE189CA55C0076AC7D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A5543790189CA55C0076AC7D /* UIKit.framework */; };
 		A55437B6189CA55C0076AC7D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A55437B4189CA55C0076AC7D /* InfoPlist.strings */; };
 		A55437B8189CA55C0076AC7D /* ARMonopolyNativeCodeBaseTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A55437B7189CA55C0076AC7D /* ARMonopolyNativeCodeBaseTests.m */; };
+		A5BFE652189CD0E200C8E8BC /* Notes.txt in Resources */ = {isa = PBXBuildFile; fileRef = A5BFE651189CD0E200C8E8BC /* Notes.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		A55437B3189CA55C0076AC7D /* ARMonopolyNativeCodeBaseTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ARMonopolyNativeCodeBaseTests-Info.plist"; sourceTree = "<group>"; };
 		A55437B5189CA55C0076AC7D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A55437B7189CA55C0076AC7D /* ARMonopolyNativeCodeBaseTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ARMonopolyNativeCodeBaseTests.m; sourceTree = "<group>"; };
+		A5BFE651189CD0E200C8E8BC /* Notes.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Notes.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +121,7 @@
 				A55437A2189CA55C0076AC7D /* ARMViewController.m */,
 				A55437A4189CA55C0076AC7D /* Images.xcassets */,
 				A5543793189CA55C0076AC7D /* Supporting Files */,
+				A5BFE651189CD0E200C8E8BC /* Notes.txt */,
 			);
 			path = ARMonopolyNativeCodeBase;
 			sourceTree = "<group>";
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A5BFE652189CD0E200C8E8BC /* Notes.txt in Resources */,
 				A55437A5189CA55C0076AC7D /* Images.xcassets in Resources */,
 				A5543797189CA55C0076AC7D /* InfoPlist.strings in Resources */,
 				A55437A0189CA55C0076AC7D /* Main.storyboard in Resources */,
@@ -461,6 +465,7 @@
 				A55437BD189CA55C0076AC7D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A55437BE189CA55C0076AC7D /* Build configuration list for PBXNativeTarget "ARMonopolyNativeCodeBaseTests" */ = {
 			isa = XCConfigurationList;
@@ -469,6 +474,7 @@
 				A55437C0189CA55C0076AC7D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
