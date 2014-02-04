@@ -1,6 +1,0 @@
-TODO:
-create a script that automatically copies the files from this project into the generated unity project.
-Create a script that corrects the [Super subviews] problem in UI/iPhoneview.mm.
-make sure this project can compile as-is.
-
-
