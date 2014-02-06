@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>72A86171-23B8-4A1C-BD2F-3AA7D87A00BE</string>
+	<string>AE8AE569-867A-4DC0-833D-C93468605F63</string>
 	<key>IDESourceControlProjectName</key>
 	<string>ARMonopolyNativeCodeBase</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -21,7 +21,7 @@
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/showes/ARMNativeCodeBase.git</string>
+	<string>https://github.com/showes/ARMonopoly.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
